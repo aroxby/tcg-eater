@@ -1,0 +1,597 @@
+{
+    "save_id": 7212045765384305912,
+    "hub_id": 0,
+    "gate": 2450,
+    "delay": 1444,
+    "menu_visible": 1,
+    "clock_speed": 100000,
+    "dependencies": [
+        1680069919819910872,
+        4413965815420561667
+    ],
+    "description": "",
+    "camera_position": {
+        "x": 65533,
+        "y": 0
+    },
+    "synced": 0,
+    "campaign_bound": 0,
+    "architecture_score": 0,
+    "player_data": [],
+    "hub_description": "",
+    "components": [
+        {
+            "kind": 92,
+            "position": {
+                "x": 1,
+                "y": 65527
+            },
+            "rotation": 1,
+            "permanent_id": 3658232191795808392,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0,
+            "custom_id": 1680069919819910872,
+            "custom_displacement": {
+                "x": 65522,
+                "y": 65521
+            }
+        },
+        {
+            "kind": 92,
+            "position": {
+                "x": 1,
+                "y": 65532
+            },
+            "rotation": 1,
+            "permanent_id": 3334742202952379169,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0,
+            "custom_id": 4413965815420561667,
+            "custom_displacement": {
+                "x": 65521,
+                "y": 65524
+            }
+        },
+        {
+            "kind": 92,
+            "position": {
+                "x": 4,
+                "y": 65532
+            },
+            "rotation": 1,
+            "permanent_id": 542394393014561703,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0,
+            "custom_id": 4413965815420561667,
+            "custom_displacement": {
+                "x": 65521,
+                "y": 65524
+            }
+        },
+        {
+            "kind": 92,
+            "position": {
+                "x": 65534,
+                "y": 65532
+            },
+            "rotation": 1,
+            "permanent_id": 4201799922905324726,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0,
+            "custom_id": 4413965815420561667,
+            "custom_displacement": {
+                "x": 65521,
+                "y": 65524
+            }
+        },
+        {
+            "kind": 87,
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "rotation": 0,
+            "permanent_id": 4437741930470865687,
+            "custom_string": "10s",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 65534
+        },
+        {
+            "kind": 87,
+            "position": {
+                "x": 65524,
+                "y": 6
+            },
+            "rotation": 0,
+            "permanent_id": 2262750560520354827,
+            "custom_string": "100s",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 65532
+        },
+        {
+            "kind": 87,
+            "position": {
+                "x": 36,
+                "y": 6
+            },
+            "rotation": 0,
+            "permanent_id": 4186974042537480632,
+            "custom_string": "1s",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 65530
+        },
+        {
+            "kind": 87,
+            "position": {
+                "x": 65500,
+                "y": 6
+            },
+            "rotation": 0,
+            "permanent_id": 1421976472757211790,
+            "custom_string": "Sign",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 65528
+        },
+        {
+            "kind": 79,
+            "position": {
+                "x": 65493,
+                "y": 6
+            },
+            "rotation": 0,
+            "permanent_id": 1545158418925618920,
+            "custom_string": "Display Enable",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 65526
+        },
+        {
+            "kind": 2,
+            "position": {
+                "x": 65530,
+                "y": 65534
+            },
+            "rotation": 0,
+            "permanent_id": 4504220571085616077,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
+            "kind": 70,
+            "position": {
+                "x": 65535,
+                "y": 65523
+            },
+            "rotation": 1,
+            "permanent_id": 1456493890543781881,
+            "custom_string": "Signed",
+            "setting_1": 2,
+            "setting_2": 0,
+            "ui_order": 65534
+        },
+        {
+            "kind": 75,
+            "position": {
+                "x": 2,
+                "y": 65523
+            },
+            "rotation": 1,
+            "permanent_id": 2493685044471523275,
+            "custom_string": "Value",
+            "setting_1": 2,
+            "setting_2": 0,
+            "ui_order": 65532
+        },
+        {
+            "kind": 79,
+            "position": {
+                "x": 65518,
+                "y": 6
+            },
+            "rotation": 0,
+            "permanent_id": 3317683550992606875,
+            "custom_string": "Display Enable",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 65524
+        },
+        {
+            "kind": 79,
+            "position": {
+                "x": 5,
+                "y": 6
+            },
+            "rotation": 0,
+            "permanent_id": 996606393377241982,
+            "custom_string": "Display Enable",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 65522
+        },
+        {
+            "kind": 79,
+            "position": {
+                "x": 29,
+                "y": 6
+            },
+            "rotation": 0,
+            "permanent_id": 3351442463795172062,
+            "custom_string": "Display Enable",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 65520
+        }
+    ],
+    "wires": [
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65532,
+                "y": 65528
+            },
+            "segments": [
+                3,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65532,
+                "y": 1
+            },
+            "segments": [
+                201,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 1,
+                "y": 65528
+            },
+            "segments": [
+                66,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 35,
+                "y": 6
+            },
+            "segments": [
+                197,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 5,
+                "y": 65535
+            },
+            "segments": [
+                66,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65523,
+                "y": 2
+            },
+            "segments": [
+                12,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 2,
+                "y": 65526
+            },
+            "segments": [
+                194,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65523,
+                "y": 6
+            },
+            "segments": [
+                196,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 4,
+                "y": 0
+            },
+            "segments": [
+                70,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65517,
+                "y": 6
+            },
+            "segments": [
+                198,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65492,
+                "y": 0
+            },
+            "segments": [
+                25,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65517,
+                "y": 0
+            },
+            "segments": [
+                14,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 28,
+                "y": 6
+            },
+            "segments": [
+                198,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65499,
+                "y": 6
+            },
+            "segments": [
+                197,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65499,
+                "y": 1
+            },
+            "segments": [
+                31,
+                2,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65535,
+                "y": 2
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 2,
+                "y": 2
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65531,
+                "y": 65534
+            },
+            "segments": [
+                66,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 2,
+                "y": 65528
+            },
+            "segments": [
+                97,
+                130,
+                97,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65531,
+                "y": 0
+            },
+            "segments": [
+                9,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 4,
+                "y": 0
+            },
+            "segments": [
+                24,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65535,
+                "y": 65524
+            },
+            "segments": [
+                34,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65492,
+                "y": 6
+            },
+            "segments": [
+                198,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 35,
+                "y": 1
+            },
+            "segments": [
+                158,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 11,
+                "y": 6
+            },
+            "segments": [
+                196,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 0,
+                "y": 65528
+            },
+            "segments": [
+                33,
+                2,
+                33,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 11,
+                "y": 2
+            },
+            "segments": [
+                137,
+                0
+            ]
+        }
+    ]
+}

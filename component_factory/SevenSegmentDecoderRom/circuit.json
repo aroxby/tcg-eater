@@ -1,0 +1,170 @@
+{
+    "save_id": 4413965815420561667,
+    "hub_id": 0,
+    "gate": 256,
+    "delay": 10,
+    "menu_visible": 1,
+    "clock_speed": 100000,
+    "dependencies": [],
+    "description": "",
+    "camera_position": {
+        "x": 65532,
+        "y": 65512
+    },
+    "synced": 0,
+    "campaign_bound": 0,
+    "architecture_score": 0,
+    "player_data": [],
+    "hub_description": "",
+    "components": [
+        {
+            "kind": 206,
+            "position": {
+                "x": 0,
+                "y": 65511
+            },
+            "rotation": 0,
+            "permanent_id": 1754119297763765667,
+            "custom_string": "",
+            "setting_1": 256,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
+            "kind": 75,
+            "position": {
+                "x": 65517,
+                "y": 65508
+            },
+            "rotation": 0,
+            "permanent_id": 4077238421366543973,
+            "custom_string": "Address",
+            "setting_1": 2,
+            "setting_2": 0,
+            "ui_order": 65534
+        },
+        {
+            "kind": 75,
+            "position": {
+                "x": 65517,
+                "y": 65516
+            },
+            "rotation": 0,
+            "permanent_id": 189717889632563569,
+            "custom_string": "Save Value",
+            "setting_1": 2,
+            "setting_2": 0,
+            "ui_order": 65532
+        },
+        {
+            "kind": 70,
+            "position": {
+                "x": 65516,
+                "y": 65501
+            },
+            "rotation": 0,
+            "permanent_id": 4453096670984250048,
+            "custom_string": "Save",
+            "setting_1": 2,
+            "setting_2": 0,
+            "ui_order": 65530
+        },
+        {
+            "kind": 87,
+            "position": {
+                "x": 20,
+                "y": 65502
+            },
+            "rotation": 0,
+            "permanent_id": 3395034465270838515,
+            "custom_string": "Output",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 65534
+        },
+        {
+            "kind": 2,
+            "position": {
+                "x": 65517,
+                "y": 65504
+            },
+            "rotation": 0,
+            "permanent_id": 1366032245468650541,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        }
+    ],
+    "wires": [
+        {
+            "kind": 4,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 13,
+                "y": 65504
+            },
+            "segments": [
+                4,
+                226,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65518,
+                "y": 65508
+            },
+            "segments": [
+                3,
+                226,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65523,
+                "y": 65505
+            },
+            "segments": [
+                130,
+                164,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65518,
+                "y": 65516
+            },
+            "segments": [
+                196,
+                229,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65518,
+                "y": 65504
+            },
+            "segments": [
+                5,
+                0
+            ]
+        }
+    ]
+}

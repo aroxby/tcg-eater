@@ -1,0 +1,29 @@
+const HLT 001
+const MRI 002
+const RMI 004
+const RMO 008
+const IRI 016
+const IRO 032
+const ARI 064
+const ARO 128
+
+const SRO 001*256
+const SUB 002*256
+const BRI 004*256
+const ORI 008*256
+const PCE 016*256
+const PCO 032*256
+const PCI 064*256
+const FLU 128*256
+
+# RAM -> A
+RMO+ARI+PCE
+
+# SUM -> OUT
+SRO+ORI+PCE
+
+# RAM -> B
+RMO+BRI+PCE
+
+# SUM -> OUT & A
+SRO+ORI+ARI
