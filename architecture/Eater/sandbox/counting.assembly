@@ -14,6 +14,8 @@ LDI|15
 OUT
 SUB|dec
 OUT
+SUB|dec
+OUT
 HLT
 
 label dec

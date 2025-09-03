@@ -1,18 +1,19 @@
 {
     "save_id": 2179653139765324668,
     "hub_id": 0,
-    "gate": 7840,
-    "delay": 2322,
+    "gate": 7672,
+    "delay": 2392,
     "menu_visible": 1,
     "clock_speed": 100000,
     "dependencies": [
+        7212045765384305912,
         3332480561487874667,
-        7212045765384305912
+        688062441
     ],
     "description": "",
     "camera_position": {
-        "x": 65509,
-        "y": 65525
+        "x": 2,
+        "y": 2
     },
     "synced": 0,
     "campaign_bound": 0,
@@ -34,19 +35,6 @@
             "ui_order": 0
         },
         {
-            "kind": 210,
-            "position": {
-                "x": 18,
-                "y": 65521
-            },
-            "rotation": 0,
-            "permanent_id": 2634811107099996523,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
             "kind": 31,
             "position": {
                 "x": 21,
@@ -54,19 +42,6 @@
             },
             "rotation": 0,
             "permanent_id": 1379488925488958542,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
-            "kind": 210,
-            "position": {
-                "x": 22,
-                "y": 65529
-            },
-            "rotation": 0,
-            "permanent_id": 3266765468341709097,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
@@ -256,7 +231,7 @@
             "rotation": 0,
             "permanent_id": 454158217302471534,
             "custom_string": "",
-            "setting_1": 6,
+            "setting_1": 8,
             "setting_2": 0,
             "ui_order": 0,
             "programs": [
@@ -410,19 +385,6 @@
             "ui_order": 0
         },
         {
-            "kind": 210,
-            "position": {
-                "x": 65535,
-                "y": 10
-            },
-            "rotation": 0,
-            "permanent_id": 1072880720715278360,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
             "kind": 159,
             "position": {
                 "x": 65533,
@@ -495,19 +457,6 @@
             },
             "rotation": 0,
             "permanent_id": 1782355267384752862,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
-            "kind": 210,
-            "position": {
-                "x": 65530,
-                "y": 65508
-            },
-            "rotation": 0,
-            "permanent_id": 874031434499398394,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
@@ -600,45 +549,9 @@
             "rotation": 0,
             "permanent_id": 2012568364709399528,
             "custom_string": "",
-            "setting_1": 6,
+            "setting_1": 5,
             "setting_2": 0,
             "ui_order": 0
-        },
-        {
-            "kind": 92,
-            "position": {
-                "x": 14,
-                "y": 3
-            },
-            "rotation": 0,
-            "permanent_id": 603390250402783463,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0,
-            "custom_id": 3332480561487874667,
-            "custom_displacement": {
-                "x": 65520,
-                "y": 65520
-            }
-        },
-        {
-            "kind": 92,
-            "position": {
-                "x": 14,
-                "y": 65519
-            },
-            "rotation": 0,
-            "permanent_id": 563116937526443208,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0,
-            "custom_id": 3332480561487874667,
-            "custom_displacement": {
-                "x": 65520,
-                "y": 65521
-            }
         },
         {
             "kind": 92,
@@ -679,19 +592,55 @@
         {
             "kind": 92,
             "position": {
-                "x": 65527,
-                "y": 65507
+                "x": 14,
+                "y": 65520
             },
             "rotation": 0,
-            "permanent_id": 872557069008282717,
+            "permanent_id": 688989298781591969,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
             "ui_order": 0,
-            "custom_id": 3332480561487874667,
+            "custom_id": 688062441,
             "custom_displacement": {
-                "x": 65520,
-                "y": 65520
+                "x": 65521,
+                "y": 65521
+            }
+        },
+        {
+            "kind": 92,
+            "position": {
+                "x": 14,
+                "y": 3
+            },
+            "rotation": 0,
+            "permanent_id": 2884685156353019336,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0,
+            "custom_id": 688062441,
+            "custom_displacement": {
+                "x": 65521,
+                "y": 65521
+            }
+        },
+        {
+            "kind": 92,
+            "position": {
+                "x": 65527,
+                "y": 65507
+            },
+            "rotation": 0,
+            "permanent_id": 353058143439423527,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0,
+            "custom_id": 688062441,
+            "custom_displacement": {
+                "x": 65521,
+                "y": 65521
             }
         },
         {
@@ -701,266 +650,30 @@
                 "y": 9
             },
             "rotation": 0,
-            "permanent_id": 1153630175924355753,
+            "permanent_id": 2642850901418770355,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
             "ui_order": 0,
-            "custom_id": 3332480561487874667,
+            "custom_id": 688062441,
             "custom_displacement": {
-                "x": 65520,
-                "y": 65520
+                "x": 65521,
+                "y": 65521
             }
         }
     ],
     "wires": [
         {
-            "kind": 1,
+            "kind": 3,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65492,
-                "y": 42
+                "x": 65463,
+                "y": 65515
             },
             "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "A Out",
-            "path": {
-                "x": 50,
-                "y": 65488
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65505,
-                "y": 65520
-            },
-            "segments": [
-                132,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "MAR In",
-            "path": {
-                "x": 44,
-                "y": 23
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65499,
-                "y": 65507
-            },
-            "segments": [
-                131,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 54,
-                "y": 12
-            },
-            "segments": [
-                223,
-                209,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "IR Out",
-            "path": {
-                "x": 48,
-                "y": 23
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 48,
-                "y": 7
-            },
-            "segments": [
-                223,
-                204,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 11,
-                "y": 65510
-            },
-            "segments": [
-                8,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 19,
-                "y": 65511
-            },
-            "segments": [
-                193,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65505,
-                "y": 65519
-            },
-            "segments": [
-                129,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 50,
-                "y": 65518
-            },
-            "segments": [
-                210,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 56,
-                "y": 65512
-            },
-            "segments": [
-                199,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65492,
-                "y": 41
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "B in",
-            "path": {
-                "x": 53,
-                "y": 23
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65460,
-                "y": 65507
-            },
-            "segments": [
-                72,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 7,
-                "y": 65512
-            },
-            "segments": [
-                193,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 56,
-                "y": 65505
-            },
-            "segments": [
-                159,
-                141,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 12,
-                "y": 15
-            },
-            "segments": [
-                195,
+                31,
+                3,
                 0
             ]
         },
@@ -982,52 +695,24 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 12,
-                "y": 12
+                "x": 27,
+                "y": 65528
             },
             "segments": [
-                31,
-                11,
+                194,
                 0
             ]
         },
         {
             "kind": 0,
             "color": 0,
-            "comment": "",
+            "comment": "MAR In",
             "path": {
-                "x": 46,
-                "y": 65514
+                "x": 44,
+                "y": 23
             },
             "segments": [
-                206,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65525,
-                "y": 65507
-            },
-            "segments": [
-                197,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65495,
-                "y": 42
-            },
-            "segments": [
-                1,
-                225,
+                76,
                 0
             ]
         },
@@ -1050,37 +735,24 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 19,
-                "y": 65510
+                "x": 6,
+                "y": 11
             },
             "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 4,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65495,
-                "y": 65512
-            },
-            "segments": [
-                68,
+                1,
                 0
             ]
         },
         {
             "kind": 0,
             "color": 0,
-            "comment": "",
+            "comment": "Ram In",
             "path": {
-                "x": 65496,
-                "y": 65516
+                "x": 45,
+                "y": 65488
             },
             "segments": [
-                201,
+                76,
                 0
             ]
         },
@@ -1089,12 +761,50 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 54,
-                "y": 39
+                "x": 28,
+                "y": 65525
             },
             "segments": [
-                159,
-                150,
+                149,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 10,
+            "comment": "Microcode",
+            "path": {
+                "x": 65522,
+                "y": 37
+            },
+            "segments": [
+                136,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 13,
+                "y": 65521
+            },
+            "segments": [
+                134,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Counter Enable",
+            "path": {
+                "x": 55,
+                "y": 23
+            },
+            "segments": [
+                76,
                 0
             ]
         },
@@ -1103,39 +813,37 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65531,
-                "y": 36
+                "x": 52,
+                "y": 65535
             },
             "segments": [
-                159,
-                135,
+                88,
                 0
             ]
         },
         {
-            "kind": 4,
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65533,
+                "y": 38
+            },
+            "segments": [
+                194,
+                0
+            ]
+        },
+        {
+            "kind": 3,
             "color": 0,
             "comment": "",
             "path": {
                 "x": 65505,
-                "y": 65522
+                "y": 65521
             },
             "segments": [
-                138,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 55,
-                "y": 65506
-            },
-            "segments": [
-                95,
-                86,
+                135,
                 0
             ]
         },
@@ -1145,36 +853,10 @@
             "comment": "",
             "path": {
                 "x": 7,
-                "y": 16
+                "y": 11
             },
             "segments": [
-                6,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 12,
-                "y": 65505
-            },
-            "segments": [
-                66,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 14,
-                "y": 65507
-            },
-            "segments": [
-                193,
+                199,
                 0
             ]
         },
@@ -1183,11 +865,143 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 22,
-                "y": 65521
+                "x": 0,
+                "y": 10
             },
             "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 53,
+                "y": 0
+            },
+            "segments": [
+                223,
                 197,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65493,
+                "y": 65507
+            },
+            "segments": [
+                159,
+                130,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65499,
+                "y": 65507
+            },
+            "segments": [
+                131,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Ram Out",
+            "path": {
+                "x": 46,
+                "y": 23
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65533,
+                "y": 65514
+            },
+            "segments": [
+                68,
+                0
+            ]
+        },
+        {
+            "kind": 4,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65491,
+                "y": 65519
+            },
+            "segments": [
+                129,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "B in",
+            "path": {
+                "x": 53,
+                "y": 23
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 4,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65491,
+                "y": 65519
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65492,
+                "y": 41
+            },
+            "segments": [
+                194,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 15,
+                "y": 16
+            },
+            "segments": [
+                1,
                 0
             ]
         },
@@ -1209,24 +1023,37 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 15,
-                "y": 16
+                "x": 7,
+                "y": 65511
             },
             "segments": [
-                1,
+                194,
                 0
             ]
         },
         {
-            "kind": 0,
-            "color": 10,
-            "comment": "Memory Address",
+            "kind": 1,
+            "color": 0,
+            "comment": "",
             "path": {
-                "x": 65514,
-                "y": 65508
+                "x": 17,
+                "y": 1
             },
             "segments": [
-                11,
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 4,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65491,
+                "y": 65516
+            },
+            "segments": [
+                3,
                 0
             ]
         },
@@ -1244,15 +1071,15 @@
             ]
         },
         {
-            "kind": 0,
+            "kind": 1,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 13,
-                "y": 15
+                "x": 19,
+                "y": 65510
             },
             "segments": [
-                129,
+                194,
                 0
             ]
         },
@@ -1261,8 +1088,8 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65492,
-                "y": 41
+                "x": 65463,
+                "y": 65519
             },
             "segments": [
                 1,
@@ -1274,26 +1101,24 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 53,
-                "y": 0
+                "x": 28,
+                "y": 17
             },
             "segments": [
-                159,
-                138,
+                193,
                 0
             ]
         },
         {
             "kind": 0,
             "color": 0,
-            "comment": "",
+            "comment": "Counter Out",
             "path": {
-                "x": 15,
-                "y": 65512
+                "x": 56,
+                "y": 23
             },
             "segments": [
-                31,
-                10,
+                76,
                 0
             ]
         },
@@ -1302,12 +1127,24 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 46,
-                "y": 38
+                "x": 12,
+                "y": 65508
             },
             "segments": [
-                159,
-                142,
+                129,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65505,
+                "y": 65520
+            },
+            "segments": [
+                132,
                 0
             ]
         },
@@ -1327,9 +1164,115 @@
         {
             "kind": 0,
             "color": 0,
-            "comment": "Sum Out",
+            "comment": "",
             "path": {
                 "x": 51,
+                "y": 65526
+            },
+            "segments": [
+                95,
+                66,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65489,
+                "y": 38
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 52,
+                "y": 65500
+            },
+            "segments": [
+                95,
+                68,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 16,
+                "y": 16
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 53,
+                "y": 0
+            },
+            "segments": [
+                87,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "IR In",
+            "path": {
+                "x": 47,
+                "y": 23
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 48,
+                "y": 7
+            },
+            "segments": [
+                80,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 56,
+                "y": 65505
+            },
+            "segments": [
+                197,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Output In",
+            "path": {
+                "x": 54,
                 "y": 65488
             },
             "segments": [
@@ -1353,9 +1296,273 @@
         {
             "kind": 0,
             "color": 0,
-            "comment": "B in",
+            "comment": "",
             "path": {
-                "x": 53,
+                "x": 12,
+                "y": 3
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 15,
+                "y": 65521
+            },
+            "segments": [
+                5,
+                0
+            ]
+        },
+        {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65528,
+                "y": 65511
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 22,
+                "y": 65516
+            },
+            "segments": [
+                143,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 0,
+                "y": 10
+            },
+            "segments": [
+                74,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65496,
+                "y": 65516
+            },
+            "segments": [
+                201,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 32,
+                "y": 17
+            },
+            "segments": [
+                193,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 14,
+                "y": 65508
+            },
+            "segments": [
+                3,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 46,
+                "y": 37
+            },
+            "segments": [
+                65,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 45,
+                "y": 65500
+            },
+            "segments": [
+                77,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 16,
+                "y": 4
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 15,
+                "y": 65512
+            },
+            "segments": [
+                31,
+                10,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 10,
+            "comment": "Proggraming Mode",
+            "path": {
+                "x": 65460,
+                "y": 65506
+            },
+            "segments": [
+                12,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 55,
+                "y": 65506
+            },
+            "segments": [
+                95,
+                86,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65492,
+                "y": 41
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 15,
+                "y": 65535
+            },
+            "segments": [
+                31,
+                6,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 17,
+                "y": 4
+            },
+            "segments": [
+                193,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 45,
+                "y": 23
+            },
+            "segments": [
+                223,
+                207,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65531,
+                "y": 13
+            },
+            "segments": [
+                12,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65525,
+                "y": 65507
+            },
+            "segments": [
+                197,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Halt",
+            "path": {
+                "x": 43,
                 "y": 65488
             },
             "segments": [
@@ -1368,11 +1575,25 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 48,
-                "y": 7
+                "x": 53,
+                "y": 0
             },
             "segments": [
-                155,
+                159,
+                138,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65500,
+                "y": 65516
+            },
+            "segments": [
+                194,
                 0
             ]
         },
@@ -1394,11 +1615,103 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 21,
-                "y": 65520
+                "x": 31,
+                "y": 17
             },
             "segments": [
-                194,
+                193,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 47,
+                "y": 65500
+            },
+            "segments": [
+                95,
+                75,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65496,
+                "y": 20
+            },
+            "segments": [
+                84,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Output In",
+            "path": {
+                "x": 54,
+                "y": 23
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65489,
+                "y": 41
+            },
+            "segments": [
+                3,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 19,
+                "y": 65511
+            },
+            "segments": [
+                193,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 5,
+                "y": 10
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 49,
+                "y": 65517
+            },
+            "segments": [
+                209,
                 0
             ]
         },
@@ -1411,164 +1724,7 @@
                 "y": 65516
             },
             "segments": [
-                196,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 14,
-                "y": 65511
-            },
-            "segments": [
-                135,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 16,
-                "y": 4
-            },
-            "segments": [
-                129,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 13,
-                "y": 65520
-            },
-            "segments": [
-                129,
-                0
-            ]
-        },
-        {
-            "kind": 4,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65491,
-                "y": 65516
-            },
-            "segments": [
-                3,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Sum Out",
-            "path": {
-                "x": 51,
-                "y": 23
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65493,
-                "y": 36
-            },
-            "segments": [
-                132,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 35,
-                "y": 17
-            },
-            "segments": [
-                193,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 6,
-                "y": 11
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 12,
-                "y": 3
-            },
-            "segments": [
-                195,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 57,
-                "y": 65500
-            },
-            "segments": [
-                95,
-                92,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 12,
-                "y": 65508
-            },
-            "segments": [
-                129,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65504,
-                "y": 65514
-            },
-            "segments": [
-                29,
+                67,
                 0
             ]
         },
@@ -1590,11 +1746,11 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65512,
-                "y": 20
+                "x": 7,
+                "y": 4
             },
             "segments": [
-                144,
+                6,
                 0
             ]
         },
@@ -1603,47 +1759,8 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 29,
-                "y": 17
-            },
-            "segments": [
-                193,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 52,
-                "y": 65535
-            },
-            "segments": [
-                88,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 12,
-                "y": 65509
-            },
-            "segments": [
-                133,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 28,
-                "y": 65529
+                "x": 7,
+                "y": 4
             },
             "segments": [
                 196,
@@ -1651,15 +1768,67 @@
             ]
         },
         {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 54,
+                "y": 37
+            },
+            "segments": [
+                66,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 7,
+                "y": 65512
+            },
+            "segments": [
+                193,
+                0
+            ]
+        },
+        {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65498,
+                "y": 65511
+            },
+            "segments": [
+                69,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 10,
+            "comment": "Output Register",
+            "path": {
+                "x": 32,
+                "y": 14
+            },
+            "segments": [
+                140,
+                0
+            ]
+        },
+        {
             "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65533,
-                "y": 65514
+                "x": 65505,
+                "y": 65516
             },
             "segments": [
-                68,
+                201,
                 0
             ]
         },
@@ -1692,113 +1861,9 @@
         {
             "kind": 0,
             "color": 0,
-            "comment": "A Out",
-            "path": {
-                "x": 50,
-                "y": 23
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
             "comment": "",
             "path": {
-                "x": 65504,
-                "y": 65514
-            },
-            "segments": [
-                66,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65500,
-                "y": 65514
-            },
-            "segments": [
-                137,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65531,
-                "y": 13
-            },
-            "segments": [
-                12,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 48,
-                "y": 7
-            },
-            "segments": [
-                80,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 16,
-                "y": 65511
-            },
-            "segments": [
-                3,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65530,
-                "y": 9
-            },
-            "segments": [
-                195,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 16,
-                "y": 13
-            },
-            "segments": [
-                18,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 28,
+                "x": 34,
                 "y": 17
             },
             "segments": [
@@ -1811,12 +1876,52 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 43,
-                "y": 65500
+                "x": 48,
+                "y": 7
             },
             "segments": [
-                95,
-                92,
+                223,
+                204,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 13,
+                "y": 65520
+            },
+            "segments": [
+                129,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "A In",
+            "path": {
+                "x": 49,
+                "y": 65488
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 4,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 7,
+                "y": 65512
+            },
+            "segments": [
+                159,
+                145,
                 0
             ]
         },
@@ -1825,11 +1930,11 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65531,
-                "y": 13
+                "x": 7,
+                "y": 65509
             },
             "segments": [
-                195,
+                145,
                 0
             ]
         },
@@ -1838,50 +1943,142 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65499,
-                "y": 65516
+                "x": 12,
+                "y": 12
             },
             "segments": [
-                201,
+                31,
+                11,
                 0
             ]
         },
         {
-            "kind": 0,
+            "kind": 4,
             "color": 0,
-            "comment": "Counter Out",
+            "comment": "",
             "path": {
-                "x": 56,
-                "y": 65488
+                "x": 65534,
+                "y": 39
             },
             "segments": [
-                76,
+                1,
                 0
             ]
         },
         {
-            "kind": 0,
-            "color": 0,
-            "comment": "MAR In",
-            "path": {
-                "x": 44,
-                "y": 65488
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
+            "kind": 1,
             "color": 0,
             "comment": "",
             "path": {
                 "x": 65489,
-                "y": 38
+                "y": 39
+            },
+            "segments": [
+                66,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Halt",
+            "path": {
+                "x": 43,
+                "y": 23
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Sum Out",
+            "path": {
+                "x": 51,
+                "y": 65488
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65504,
+                "y": 65519
+            },
+            "segments": [
+                193,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65492,
+                "y": 42
             },
             "segments": [
                 1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Ram Out",
+            "path": {
+                "x": 46,
+                "y": 65488
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 7,
+                "y": 13
+            },
+            "segments": [
+                194,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 50,
+                "y": 65518
+            },
+            "segments": [
+                210,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "IR Out",
+            "path": {
+                "x": 48,
+                "y": 23
+            },
+            "segments": [
+                76,
                 0
             ]
         },
@@ -1901,137 +2098,6 @@
         },
         {
             "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 46,
-                "y": 23
-            },
-            "segments": [
-                223,
-                206,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65489,
-                "y": 39
-            },
-            "segments": [
-                66,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 10,
-            "comment": "Microcode",
-            "path": {
-                "x": 65522,
-                "y": 37
-            },
-            "segments": [
-                136,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 7,
-                "y": 4
-            },
-            "segments": [
-                6,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 7,
-                "y": 13
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65496,
-                "y": 20
-            },
-            "segments": [
-                84,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 16,
-                "y": 65530
-            },
-            "segments": [
-                129,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 34,
-                "y": 17
-            },
-            "segments": [
-                193,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65529,
-                "y": 65508
-            },
-            "segments": [
-                129,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 16,
-                "y": 4
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 0,
             "color": 10,
             "comment": "Ram",
             "path": {
@@ -2044,41 +2110,15 @@
             ]
         },
         {
-            "kind": 0,
+            "kind": 1,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 47,
-                "y": 6
+                "x": 65512,
+                "y": 20
             },
             "segments": [
-                81,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 10,
-            "comment": "A Register",
-            "path": {
-                "x": 31,
-                "y": 65519
-            },
-            "segments": [
-                136,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 10,
-            "comment": "B Register",
-            "path": {
-                "x": 27,
-                "y": 1
-            },
-            "segments": [
-                136,
+                144,
                 0
             ]
         },
@@ -2087,12 +2127,38 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 51,
-                "y": 65526
+                "x": 50,
+                "y": 65518
             },
             "segments": [
                 95,
-                66,
+                74,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Subtract",
+            "path": {
+                "x": 52,
+                "y": 65488
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 54,
+                "y": 12
+            },
+            "segments": [
+                75,
                 0
             ]
         },
@@ -2101,61 +2167,8 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65495,
-                "y": 65522
-            },
-            "segments": [
-                196,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65504,
+                "x": 65531,
                 "y": 65519
-            },
-            "segments": [
-                193,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 14,
-                "y": 65508
-            },
-            "segments": [
-                3,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 15,
-                "y": 65535
-            },
-            "segments": [
-                31,
-                6,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 19,
-                "y": 65521
             },
             "segments": [
                 1,
@@ -2167,22 +2180,75 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 14,
-                "y": 65506
+                "x": 56,
+                "y": 65512
             },
             "segments": [
-                31,
-                10,
+                95,
+                80,
                 0
             ]
         },
         {
             "kind": 0,
             "color": 0,
-            "comment": "Jump (Counter In)",
+            "comment": "A Out",
             "path": {
-                "x": 57,
-                "y": 23
+                "x": 50,
+                "y": 65488
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 48,
+                "y": 7
+            },
+            "segments": [
+                159,
+                140,
+                0
+            ]
+        },
+        {
+            "kind": 4,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65531,
+                "y": 39
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 16,
+                "y": 13
+            },
+            "segments": [
+                18,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Counter Enable",
+            "path": {
+                "x": 55,
+                "y": 65488
             },
             "segments": [
                 76,
@@ -2194,11 +2260,11 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 0,
-                "y": 10
+                "x": 11,
+                "y": 65510
             },
             "segments": [
-                74,
+                8,
                 0
             ]
         },
@@ -2207,11 +2273,24 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 17,
-                "y": 4
+                "x": 12,
+                "y": 65509
             },
             "segments": [
-                193,
+                133,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65499,
+                "y": 65516
+            },
+            "segments": [
+                201,
                 0
             ]
         },
@@ -2234,47 +2313,7 @@
             "comment": "",
             "path": {
                 "x": 12,
-                "y": 65517
-            },
-            "segments": [
-                31,
-                6,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Flags In (Update)",
-            "path": {
-                "x": 58,
-                "y": 65488
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65530,
-                "y": 9
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 7,
-                "y": 65519
+                "y": 65505
             },
             "segments": [
                 66,
@@ -2301,8 +2340,364 @@
             "color": 0,
             "comment": "",
             "path": {
+                "x": 38,
+                "y": 17
+            },
+            "segments": [
+                193,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 22,
+                "y": 65521
+            },
+            "segments": [
+                197,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 7,
+                "y": 0
+            },
+            "segments": [
+                203,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "A Out",
+            "path": {
+                "x": 50,
+                "y": 23
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 12,
+                "y": 15
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 12,
+                "y": 65520
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65500,
+                "y": 65514
+            },
+            "segments": [
+                137,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 10,
+            "comment": "A Register",
+            "path": {
+                "x": 31,
+                "y": 65519
+            },
+            "segments": [
+                136,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 13,
+                "y": 15
+            },
+            "segments": [
+                129,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65495,
+                "y": 42
+            },
+            "segments": [
+                1,
+                225,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65526,
+                "y": 65508
+            },
+            "segments": [
+                65,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 14,
+                "y": 65511
+            },
+            "segments": [
+                135,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 11,
+                "y": 65508
+            },
+            "segments": [
+                66,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "B in",
+            "path": {
+                "x": 53,
+                "y": 65488
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 2,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65505,
+                "y": 39
+            },
+            "segments": [
+                134,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 57,
+                "y": 65500
+            },
+            "segments": [
+                95,
+                92,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 15,
+                "y": 65530
+            },
+            "segments": [
+                201,
+                0
+            ]
+        },
+        {
+            "kind": 4,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65495,
+                "y": 65512
+            },
+            "segments": [
+                68,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 21,
+                "y": 65520
+            },
+            "segments": [
+                194,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 12,
+                "y": 65517
+            },
+            "segments": [
+                31,
+                6,
+                0
+            ]
+        },
+        {
+            "kind": 4,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65495,
+                "y": 65522
+            },
+            "segments": [
+                196,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 51,
+                "y": 65500
+            },
+            "segments": [
+                90,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
                 "x": 46,
-                "y": 37
+                "y": 23
+            },
+            "segments": [
+                223,
+                206,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 16,
+                "y": 65507
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 43,
+                "y": 65500
+            },
+            "segments": [
+                95,
+                92,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65501,
+                "y": 65513
+            },
+            "segments": [
+                67,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65526,
+                "y": 65507
+            },
+            "segments": [
+                129,
+                0
+            ]
+        },
+        {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65497,
+                "y": 65515
             },
             "segments": [
                 65,
@@ -2314,11 +2709,38 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 21,
-                "y": 7
+                "x": 65530,
+                "y": 9
             },
             "segments": [
-                144,
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 44,
+                "y": 65502
+            },
+            "segments": [
+                194,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 14,
+                "y": 65506
+            },
+            "segments": [
+                31,
+                10,
                 0
             ]
         },
@@ -2327,11 +2749,143 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 16,
+                "x": 65533,
+                "y": 10
+            },
+            "segments": [
+                3,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 15,
+                "y": 4
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 15,
+                "y": 65534
+            },
+            "segments": [
+                65,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 10,
+            "comment": "B Register",
+            "path": {
+                "x": 27,
+                "y": 1
+            },
+            "segments": [
+                136,
+                0
+            ]
+        },
+        {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65463,
+                "y": 65515
+            },
+            "segments": [
+                68,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 54,
+                "y": 12
+            },
+            "segments": [
+                223,
+                209,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65505,
+                "y": 65519
+            },
+            "segments": [
+                129,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 7,
                 "y": 16
             },
             "segments": [
-                195,
+                6,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 54,
+                "y": 39
+            },
+            "segments": [
+                159,
+                150,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65460,
+                "y": 65517
+            },
+            "segments": [
+                65,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 12,
+                "y": 3
+            },
+            "segments": [
+                1,
                 0
             ]
         },
@@ -2354,59 +2908,20 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65489,
-                "y": 41
+                "x": 16,
+                "y": 3
             },
             "segments": [
-                3,
+                197,
                 0
             ]
         },
         {
             "kind": 0,
             "color": 0,
-            "comment": "",
+            "comment": "Counter Out",
             "path": {
-                "x": 27,
-                "y": 65528
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 15,
-                "y": 65521
-            },
-            "segments": [
-                2,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Subtract",
-            "path": {
-                "x": 52,
-                "y": 23
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Subtract",
-            "path": {
-                "x": 52,
+                "x": 56,
                 "y": 65488
             },
             "segments": [
@@ -2432,117 +2947,25 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65505,
-                "y": 65516
-            },
-            "segments": [
-                201,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Ram In",
-            "path": {
-                "x": 45,
-                "y": 65488
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 3,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65497,
-                "y": 65515
-            },
-            "segments": [
-                65,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Halt",
-            "path": {
-                "x": 43,
-                "y": 23
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65493,
-                "y": 65507
-            },
-            "segments": [
-                159,
-                130,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Jump (Counter In)",
-            "path": {
-                "x": 57,
-                "y": 65488
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Counter Enable",
-            "path": {
-                "x": 55,
-                "y": 65488
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 47,
-                "y": 6
-            },
-            "segments": [
-                159,
-                150,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
                 "x": 65502,
                 "y": 65516
             },
             "segments": [
                 201,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65531,
+                "y": 36
+            },
+            "segments": [
+                159,
+                135,
                 0
             ]
         },
@@ -2560,28 +2983,15 @@
             ]
         },
         {
-            "kind": 1,
+            "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 7,
-                "y": 16
+                "x": 55,
+                "y": 65500
             },
             "segments": [
-                195,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Ram In",
-            "path": {
-                "x": 45,
-                "y": 23
-            },
-            "segments": [
-                76,
+                70,
                 0
             ]
         },
@@ -2590,37 +3000,11 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65501,
-                "y": 65513
+                "x": 65504,
+                "y": 65514
             },
             "segments": [
-                67,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65462,
-                "y": 65519
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 11,
-                "y": 65508
-            },
-            "segments": [
-                66,
+                29,
                 0
             ]
         },
@@ -2642,11 +3026,11 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 5,
-                "y": 10
+                "x": 47,
+                "y": 6
             },
             "segments": [
-                195,
+                81,
                 0
             ]
         },
@@ -2655,8 +3039,190 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 32,
-                "y": 17
+                "x": 65531,
+                "y": 13
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Ram In",
+            "path": {
+                "x": 45,
+                "y": 23
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 3,
+                "y": 11
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 7,
+                "y": 16
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Jump (Counter In)",
+            "path": {
+                "x": 57,
+                "y": 23
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 16,
+                "y": 65530
+            },
+            "segments": [
+                129,
+                0
+            ]
+        },
+        {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65498,
+                "y": 65521
+            },
+            "segments": [
+                195,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Subtract",
+            "path": {
+                "x": 52,
+                "y": 23
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "Sum Out",
+            "path": {
+                "x": 51,
+                "y": 23
+            },
+            "segments": [
+                76,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 7,
+                "y": 65516
+            },
+            "segments": [
+                196,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 56,
+                "y": 65512
+            },
+            "segments": [
+                199,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 7,
+                "y": 65519
+            },
+            "segments": [
+                66,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65493,
+                "y": 36
+            },
+            "segments": [
+                132,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 10,
+            "comment": "Instruction Register",
+            "path": {
+                "x": 6,
+                "y": 5
+            },
+            "segments": [
+                142,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 14,
+                "y": 65507
             },
             "segments": [
                 193,
@@ -2668,11 +3234,11 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 45,
-                "y": 65500
+                "x": 50,
+                "y": 65518
             },
             "segments": [
-                77,
+                157,
                 0
             ]
         },
@@ -2692,10 +3258,10 @@
         {
             "kind": 0,
             "color": 0,
-            "comment": "Counter Out",
+            "comment": "Flags In (Update)",
             "path": {
-                "x": 56,
-                "y": 23
+                "x": 58,
+                "y": 65488
             },
             "segments": [
                 76,
@@ -2703,64 +3269,12 @@
             ]
         },
         {
-            "kind": 4,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65491,
-                "y": 65519
-            },
-            "segments": [
-                129,
-                0
-            ]
-        },
-        {
             "kind": 1,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 17,
-                "y": 1
-            },
-            "segments": [
-                195,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 3,
-                "y": 11
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 4,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65534,
-                "y": 39
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 31,
-                "y": 17
+                "x": 34,
+                "y": 14
             },
             "segments": [
                 193,
@@ -2772,8 +3286,35 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 15,
-                "y": 65534
+                "x": 65533,
+                "y": 65514
+            },
+            "segments": [
+                31,
+                18,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 28,
+                "y": 65529
+            },
+            "segments": [
+                196,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 16,
+                "y": 3
             },
             "segments": [
                 65,
@@ -2795,275 +3336,36 @@
         },
         {
             "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 45,
-                "y": 23
-            },
-            "segments": [
-                223,
-                207,
-                0
-            ]
-        },
-        {
-            "kind": 3,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65463,
-                "y": 65515
-            },
-            "segments": [
-                68,
-                0
-            ]
-        },
-        {
-            "kind": 3,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65463,
-                "y": 65515
-            },
-            "segments": [
-                31,
-                3,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 16,
-                "y": 65507
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 26,
-                "y": 65529
-            },
-            "segments": [
-                131,
-                0
-            ]
-        },
-        {
-            "kind": 2,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65505,
-                "y": 39
-            },
-            "segments": [
-                134,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 12,
-                "y": 65520
-            },
-            "segments": [
-                195,
-                0
-            ]
-        },
-        {
-            "kind": 0,
             "color": 10,
-            "comment": "Output Register",
+            "comment": "Memory Address",
             "path": {
-                "x": 32,
-                "y": 14
+                "x": 65514,
+                "y": 65508
             },
             "segments": [
-                140,
+                11,
                 0
             ]
         },
         {
-            "kind": 1,
+            "kind": 0,
             "color": 0,
             "comment": "",
-            "path": {
-                "x": 16,
-                "y": 4
-            },
-            "segments": [
-                198,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Output In",
-            "path": {
-                "x": 54,
-                "y": 23
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Ram Out",
             "path": {
                 "x": 46,
-                "y": 23
+                "y": 65514
             },
             "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 4,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65531,
-                "y": 65519
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 4,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65491,
-                "y": 65519
-            },
-            "segments": [
-                195,
+                206,
                 0
             ]
         },
         {
             "kind": 0,
             "color": 0,
-            "comment": "",
+            "comment": "Jump (Counter In)",
             "path": {
-                "x": 65526,
-                "y": 65507
-            },
-            "segments": [
-                129,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "IR In",
-            "path": {
-                "x": 47,
-                "y": 23
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 3,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65531,
-                "y": 65511
-            },
-            "segments": [
-                159,
-                130,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 50,
-                "y": 65518
-            },
-            "segments": [
-                95,
-                74,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 0,
-                "y": 20
-            },
-            "segments": [
-                150,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 52,
-                "y": 65500
-            },
-            "segments": [
-                95,
-                68,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 34,
-                "y": 14
-            },
-            "segments": [
-                193,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Ram Out",
-            "path": {
-                "x": 46,
+                "x": 57,
                 "y": 65488
             },
             "segments": [
@@ -3072,42 +3374,15 @@
             ]
         },
         {
-            "kind": 0,
+            "kind": 1,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 44,
-                "y": 23
+                "x": 29,
+                "y": 17
             },
             "segments": [
-                223,
-                218,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Counter Enable",
-            "path": {
-                "x": 55,
-                "y": 23
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 3,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65498,
-                "y": 65521
-            },
-            "segments": [
-                195,
+                193,
                 0
             ]
         },
@@ -3129,11 +3404,40 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 12,
-                "y": 3
+                "x": 65460,
+                "y": 65507
             },
             "segments": [
-                1,
+                72,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 56,
+                "y": 65505
+            },
+            "segments": [
+                159,
+                141,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 45,
+                "y": 65513
+            },
+            "segments": [
+                159,
+                159,
+                146,
                 0
             ]
         },
@@ -3143,11 +3447,11 @@
             "comment": "",
             "path": {
                 "x": 47,
-                "y": 65500
+                "y": 6
             },
             "segments": [
-                95,
-                75,
+                159,
+                150,
                 0
             ]
         },
@@ -3156,89 +3460,11 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 7,
-                "y": 11
+                "x": 0,
+                "y": 20
             },
             "segments": [
-                199,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 15,
-                "y": 65521
-            },
-            "segments": [
-                73,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 44,
-                "y": 65502
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 54,
-                "y": 12
-            },
-            "segments": [
-                75,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 28,
-                "y": 65525
-            },
-            "segments": [
-                149,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 13,
-                "y": 65521
-            },
-            "segments": [
-                134,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65533,
-                "y": 38
-            },
-            "segments": [
-                194,
+                150,
                 0
             ]
         },
@@ -3260,37 +3486,8 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 56,
-                "y": 65512
-            },
-            "segments": [
-                95,
-                80,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 45,
-                "y": 65513
-            },
-            "segments": [
-                159,
-                159,
-                146,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 0,
-                "y": 10
+                "x": 65530,
+                "y": 9
             },
             "segments": [
                 1,
@@ -3298,16 +3495,15 @@
             ]
         },
         {
-            "kind": 4,
+            "kind": 1,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 7,
-                "y": 65512
+                "x": 65462,
+                "y": 65519
             },
             "segments": [
-                159,
-                145,
+                1,
                 0
             ]
         },
@@ -3316,86 +3512,20 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65534,
-                "y": 10
+                "x": 35,
+                "y": 17
             },
             "segments": [
-                129,
+                193,
                 0
             ]
         },
         {
             "kind": 0,
             "color": 0,
-            "comment": "",
+            "comment": "MAR In",
             "path": {
-                "x": 53,
-                "y": 0
-            },
-            "segments": [
-                223,
-                197,
-                0
-            ]
-        },
-        {
-            "kind": 3,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65498,
-                "y": 65511
-            },
-            "segments": [
-                69,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 51,
-                "y": 65500
-            },
-            "segments": [
-                90,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 49,
-                "y": 65517
-            },
-            "segments": [
-                209,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 50,
-                "y": 65518
-            },
-            "segments": [
-                157,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "A In",
-            "path": {
-                "x": 49,
+                "x": 44,
                 "y": 65488
             },
             "segments": [
@@ -3404,41 +3534,94 @@
             ]
         },
         {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65528,
+                "y": 65511
+            },
+            "segments": [
+                158,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 46,
+                "y": 38
+            },
+            "segments": [
+                159,
+                142,
+                0
+            ]
+        },
+        {
             "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 56,
-                "y": 65505
+                "x": 65504,
+                "y": 65514
             },
             "segments": [
-                197,
+                66,
                 0
             ]
         },
         {
-            "kind": 3,
+            "kind": 1,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65531,
-                "y": 65511
+                "x": 18,
+                "y": 65529
             },
             "segments": [
-                195,
+                8,
                 0
             ]
         },
         {
-            "kind": 3,
+            "kind": 4,
             "color": 0,
             "comment": "",
             "path": {
                 "x": 65505,
-                "y": 65521
+                "y": 65522
             },
             "segments": [
-                135,
+                138,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 16,
+                "y": 65511
+            },
+            "segments": [
+                3,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "IR In",
+            "path": {
+                "x": 47,
+                "y": 65488
+            },
+            "segments": [
+                76,
                 0
             ]
         },
@@ -3458,84 +3641,6 @@
         {
             "kind": 0,
             "color": 0,
-            "comment": "Halt",
-            "path": {
-                "x": 43,
-                "y": 65488
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65463,
-                "y": 65519
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65526,
-                "y": 65508
-            },
-            "segments": [
-                65,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65500,
-                "y": 65516
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 4,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65531,
-                "y": 39
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65460,
-                "y": 65517
-            },
-            "segments": [
-                65,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
             "comment": "",
             "path": {
                 "x": 65496,
@@ -3547,198 +3652,16 @@
             ]
         },
         {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 7,
-                "y": 65511
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 7,
-                "y": 65509
-            },
-            "segments": [
-                145,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 7,
-                "y": 4
-            },
-            "segments": [
-                207,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 10,
-            "comment": "Instruction Register",
-            "path": {
-                "x": 6,
-                "y": 5
-            },
-            "segments": [
-                142,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "IR In",
-            "path": {
-                "x": 47,
-                "y": 65488
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 7,
-                "y": 65516
-            },
-            "segments": [
-                67,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "Output In",
-            "path": {
-                "x": 54,
-                "y": 65488
-            },
-            "segments": [
-                76,
-                0
-            ]
-        },
-        {
             "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 53,
-                "y": 0
+                "x": 44,
+                "y": 23
             },
             "segments": [
-                87,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65533,
-                "y": 65514
-            },
-            "segments": [
-                31,
-                18,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 55,
-                "y": 65500
-            },
-            "segments": [
-                70,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 18,
-                "y": 65529
-            },
-            "segments": [
-                3,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 54,
-                "y": 37
-            },
-            "segments": [
-                66,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 38,
-                "y": 17
-            },
-            "segments": [
-                193,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 10,
-            "comment": "Proggraming Mode",
-            "path": {
-                "x": 65460,
-                "y": 65506
-            },
-            "segments": [
-                12,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 22,
-                "y": 65516
-            },
-            "segments": [
-                143,
+                223,
+                218,
                 0
             ]
         }
