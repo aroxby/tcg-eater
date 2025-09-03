@@ -11,7 +11,10 @@ const OUT 0xE0
 const HLT 0xF0
 
 LDI|15
-SUB|4
+OUT
+SUB|dec
 OUT
 HLT
+
+label dec
 3

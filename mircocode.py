@@ -53,8 +53,8 @@ BASE_STEPS = [[MRI,PCO,PCE], [RMO, IRI]]
 MICROCODE = {
     OpCodes.NOP: BASE_STEPS,
     OpCodes.LDA: BASE_STEPS + [[IRO, MRI], [RMO, ARI]],
-    OpCodes.ADD: BASE_STEPS + [[IRO, MRI], [RMO, BRI], [SRO, ARI, FLU]],
-    OpCodes.SUB: BASE_STEPS + [[IRO, MRI], [RMO, BRI], [SUB, SRO, ARI, FLU]],
+    OpCodes.ADD: BASE_STEPS + [[IRO, MRI], [RMO, BRI], [NOP], [SRO, ARI, FLU]],
+    OpCodes.SUB: BASE_STEPS + [[IRO, MRI], [RMO, BRI], [SUB], [SUB, SRO, ARI, FLU]],
     OpCodes.STA: BASE_STEPS + [[IRO, MRI], [ARO, RMI]],
     OpCodes.LDI: BASE_STEPS + [[IRO, ARI]],
     OpCodes.JMP: BASE_STEPS + [[IRO, PCI]],
