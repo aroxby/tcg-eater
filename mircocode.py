@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-The goal here is to ouput readable assembly that can be used for microcode
+The goal here is to output readable assembly that can be used for microcode
 """
 from enum import Enum, IntEnum
 
@@ -84,7 +84,7 @@ for zf in (0, 1):
                 name = "Undefined"
                 microcode = MICROCODE[OpCodes.NOP]
             address =  zf << 9 | cf << 8 | opcode << 4
-            output += f"\n# {address:04X} {name}({opcode:x}),CF={cf},ZF={zf}\n"
+            output += f"\n# {address:04X} {name}({opcode:X}),CF={cf},ZF={zf}\n"
             for step in range(MAX_STEPS + 1):
                 try:
                     step_code = microcode[step]
