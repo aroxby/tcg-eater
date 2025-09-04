@@ -5,7 +5,7 @@ import sys
 
 
 def main():
-    found_components = set()
+    found_components = set([688062441])  # 688062441 in the game's included "RegisterPlus"
     missing_components = set()
 
     json_files = Path('.').glob('**/*.json')

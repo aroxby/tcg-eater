@@ -18,32 +18,6 @@
     "hub_description": "",
     "components": [
         {
-            "kind": 206,
-            "position": {
-                "x": 0,
-                "y": 65511
-            },
-            "rotation": 0,
-            "permanent_id": 1754119297763765667,
-            "custom_string": "",
-            "setting_1": 256,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
-            "kind": 75,
-            "position": {
-                "x": 65517,
-                "y": 65508
-            },
-            "rotation": 0,
-            "permanent_id": 4077238421366543973,
-            "custom_string": "Address",
-            "setting_1": 2,
-            "setting_2": 0,
-            "ui_order": 65534
-        },
-        {
             "kind": 75,
             "position": {
                 "x": 65517,
@@ -57,17 +31,30 @@
             "ui_order": 65532
         },
         {
-            "kind": 70,
+            "kind": 2,
             "position": {
-                "x": 65516,
-                "y": 65501
+                "x": 65517,
+                "y": 65504
             },
             "rotation": 0,
-            "permanent_id": 4453096670984250048,
-            "custom_string": "Save",
-            "setting_1": 2,
+            "permanent_id": 1366032245468650541,
+            "custom_string": "",
+            "setting_1": 0,
             "setting_2": 0,
-            "ui_order": 65530
+            "ui_order": 0
+        },
+        {
+            "kind": 206,
+            "position": {
+                "x": 0,
+                "y": 65511
+            },
+            "rotation": 0,
+            "permanent_id": 1754119297763765667,
+            "custom_string": "",
+            "setting_1": 256,
+            "setting_2": 0,
+            "ui_order": 0
         },
         {
             "kind": 87,
@@ -83,17 +70,30 @@
             "ui_order": 65534
         },
         {
-            "kind": 2,
+            "kind": 75,
             "position": {
                 "x": 65517,
-                "y": 65504
+                "y": 65508
             },
             "rotation": 0,
-            "permanent_id": 1366032245468650541,
-            "custom_string": "",
-            "setting_1": 0,
+            "permanent_id": 4077238421366543973,
+            "custom_string": "Address",
+            "setting_1": 2,
             "setting_2": 0,
-            "ui_order": 0
+            "ui_order": 65534
+        },
+        {
+            "kind": 70,
+            "position": {
+                "x": 65516,
+                "y": 65501
+            },
+            "rotation": 0,
+            "permanent_id": 4453096670984250048,
+            "custom_string": "Save",
+            "setting_1": 2,
+            "setting_2": 0,
+            "ui_order": 65530
         }
     ],
     "wires": [
@@ -112,6 +112,19 @@
             ]
         },
         {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65518,
+                "y": 65504
+            },
+            "segments": [
+                5,
+                0
+            ]
+        },
+        {
             "kind": 1,
             "color": 0,
             "comment": "",
@@ -122,20 +135,6 @@
             "segments": [
                 3,
                 226,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65523,
-                "y": 65505
-            },
-            "segments": [
-                130,
-                164,
                 0
             ]
         },
@@ -158,11 +157,12 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65518,
-                "y": 65504
+                "x": 65523,
+                "y": 65505
             },
             "segments": [
-                5,
+                130,
+                164,
                 0
             ]
         }

@@ -3,7 +3,6 @@ SCHEMATICS_DIR = $(TCG_HOME)/schematics
 CIRCUITS = architecture/Eater/circuit.json \
 	component_factory/DecimalDecoder/circuit.json \
 	component_factory/FullSevenSegmentDecoder/circuit.json \
-	component_factory/RegisterPassPlus/circuit.json \
 	component_factory/SevenSegmentDecoderRom/circuit.json
 
 TRANSCRIBE=../tcg-transcribe/main.py
