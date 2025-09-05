@@ -49,7 +49,7 @@ class Signals(Enum):
 for signal in Signals: locals()[signal.name] = signal.name
 
 
-BASE_STEPS = [[MRI,PCO,PCE], [RMO, IRI]]
+BASE_STEPS = [[MRI, PCO, PCE], [RMO, IRI]]
 MICROCODE = {
     OpCodes.NOP: BASE_STEPS,
     OpCodes.LDA: BASE_STEPS + [[IRO, MRI], [RMO, ARI]],
@@ -83,8 +83,13 @@ for zf in (0, 1):
             except ValueError:
                 name = "Undefined"
                 microcode = MICROCODE[OpCodes.NOP]
-            address =  zf << 9 | cf << 8 | opcode << 4
+
+            if (opcode == OpCodes.JC and cf == 1) or (opcode == OpCodes.JZ and zf == 1):
+                microcode = MICROCODE[OpCodes.JMP]
+
+            address = zf << 9 | cf << 8 | opcode << 4
             output += f"\n# {address:04X} {name}({opcode:X}),CF={cf},ZF={zf}\n"
+
             for step in range(MAX_STEPS + 1):
                 try:
                     step_code = microcode[step]
