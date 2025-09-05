@@ -1,7 +1,7 @@
 {
     "save_id": 2179653139765324668,
     "hub_id": 0,
-    "gate": 7638,
+    "gate": 8119,
     "delay": 1452,
     "menu_visible": 1,
     "clock_speed": 100000,
@@ -11,8 +11,8 @@
     ],
     "description": "",
     "camera_position": {
-        "x": 31,
-        "y": 4
+        "x": 65528,
+        "y": 7
     },
     "synced": 0,
     "campaign_bound": 0,
@@ -91,6 +91,19 @@
             "ui_order": 0
         },
         {
+            "kind": 98,
+            "position": {
+                "x": 65518,
+                "y": 23
+            },
+            "rotation": 2,
+            "permanent_id": 450594789617004730,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
             "kind": 94,
             "position": {
                 "x": 65477,
@@ -152,6 +165,19 @@
                 "x": 65521,
                 "y": 65521
             }
+        },
+        {
+            "kind": 35,
+            "position": {
+                "x": 65521,
+                "y": 23
+            },
+            "rotation": 2,
+            "permanent_id": 785947983939561840,
+            "custom_string": "",
+            "setting_1": 8,
+            "setting_2": 0,
+            "ui_order": 0
         },
         {
             "kind": 160,
@@ -302,6 +328,19 @@
             "ui_order": 0
         },
         {
+            "kind": 98,
+            "position": {
+                "x": 26,
+                "y": 65533
+            },
+            "rotation": 0,
+            "permanent_id": 1669059070690652886,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
             "kind": 13,
             "position": {
                 "x": 65461,
@@ -335,6 +374,19 @@
             },
             "rotation": 0,
             "permanent_id": 1804302817602443668,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
+            "kind": 35,
+            "position": {
+                "x": 19,
+                "y": 65532
+            },
+            "rotation": 0,
+            "permanent_id": 1897142145787089210,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
@@ -468,6 +520,32 @@
             }
         },
         {
+            "kind": 210,
+            "position": {
+                "x": 37,
+                "y": 65532
+            },
+            "rotation": 0,
+            "permanent_id": 2703566445778350284,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
+            "kind": 37,
+            "position": {
+                "x": 31,
+                "y": 65532
+            },
+            "rotation": 0,
+            "permanent_id": 2756937917658352437,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
             "kind": 13,
             "position": {
                 "x": 65491,
@@ -540,6 +618,32 @@
         {
             "kind": 44,
             "position": {
+                "x": 65503,
+                "y": 40
+            },
+            "rotation": 0,
+            "permanent_id": 3271304531810442431,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
+            "kind": 40,
+            "position": {
+                "x": 22,
+                "y": 65532
+            },
+            "rotation": 0,
+            "permanent_id": 3389687296288063653,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
+            "kind": 44,
+            "position": {
                 "x": 17,
                 "y": 65530
             },
@@ -549,6 +653,24 @@
             "setting_1": 0,
             "setting_2": 0,
             "ui_order": 0
+        },
+        {
+            "kind": 92,
+            "position": {
+                "x": 34,
+                "y": 65531
+            },
+            "rotation": 0,
+            "permanent_id": 3575534508025391828,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0,
+            "custom_id": 688062441,
+            "custom_displacement": {
+                "x": 65521,
+                "y": 65521
+            }
         },
         {
             "kind": 32,
@@ -646,6 +768,19 @@
                     "name": "microcode"
                 }
             ]
+        },
+        {
+            "kind": 35,
+            "position": {
+                "x": 23,
+                "y": 65533
+            },
+            "rotation": 0,
+            "permanent_id": 4136607212419766807,
+            "custom_string": "",
+            "setting_1": 1,
+            "setting_2": 0,
+            "ui_order": 0
         },
         {
             "kind": 32,
@@ -1444,7 +1579,21 @@
                 "y": 65529
             },
             "segments": [
-                8,
+                3,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 18,
+                "y": 65530
+            },
+            "segments": [
+                5,
+                33,
                 0
             ]
         },
@@ -1475,12 +1624,51 @@
             ]
         },
         {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 20,
+                "y": 65532
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
             "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
                 "x": 21,
                 "y": 65520
+            },
+            "segments": [
+                194,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 21,
+                "y": 65529
+            },
+            "segments": [
+                5,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 21,
+                "y": 65531
             },
             "segments": [
                 194,
@@ -1510,6 +1698,45 @@
             },
             "segments": [
                 197,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 23,
+                "y": 65532
+            },
+            "segments": [
+                2,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 24,
+                "y": 65533
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 10,
+            "comment": "Sum Register",
+            "path": {
+                "x": 26,
+                "y": 65527
+            },
+            "segments": [
+                137,
                 0
             ]
         },
@@ -1549,6 +1776,19 @@
             },
             "segments": [
                 194,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 27,
+                "y": 65532
+            },
+            "segments": [
+                3,
                 0
             ]
         },
@@ -1601,6 +1841,19 @@
             },
             "segments": [
                 193,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 30,
+                "y": 65531
+            },
+            "segments": [
+                134,
                 0
             ]
         },
@@ -1674,6 +1927,45 @@
             "color": 0,
             "comment": "",
             "path": {
+                "x": 32,
+                "y": 65532
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 33,
+                "y": 65529
+            },
+            "segments": [
+                25,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 33,
+                "y": 65530
+            },
+            "segments": [
+                193,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
                 "x": 34,
                 "y": 14
             },
@@ -1709,6 +2001,19 @@
             ]
         },
         {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 35,
+                "y": 65532
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
             "kind": 0,
             "color": 0,
             "comment": "",
@@ -1735,15 +2040,28 @@
             ]
         },
         {
-            "kind": 0,
-            "color": 10,
-            "comment": "Sum Register",
+            "kind": 1,
+            "color": 0,
+            "comment": "",
             "path": {
-                "x": 39,
-                "y": 65527
+                "x": 38,
+                "y": 65532
             },
             "segments": [
-                137,
+                3,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 41,
+                "y": 65532
+            },
+            "segments": [
+                92,
                 0
             ]
         },
@@ -1757,6 +2075,19 @@
             },
             "segments": [
                 1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 10,
+            "comment": "Flags Register",
+            "path": {
+                "x": 42,
+                "y": 65528
+            },
+            "segments": [
+                138,
                 0
             ]
         },
@@ -2715,7 +3046,6 @@
                 "y": 23
             },
             "segments": [
-                223,
                 222,
                 0
             ]
@@ -2730,6 +3060,19 @@
             },
             "segments": [
                 76,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 58,
+                "y": 65529
+            },
+            "segments": [
+                223,
                 0
             ]
         },
@@ -3142,6 +3485,20 @@
             ]
         },
         {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65499,
+                "y": 39
+            },
+            "segments": [
+                34,
+                1,
+                0
+            ]
+        },
+        {
             "kind": 0,
             "color": 0,
             "comment": "",
@@ -3194,6 +3551,32 @@
             ]
         },
         {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65501,
+                "y": 24
+            },
+            "segments": [
+                16,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65501,
+                "y": 40
+            },
+            "segments": [
+                208,
+                0
+            ]
+        },
+        {
             "kind": 0,
             "color": 0,
             "comment": "",
@@ -3216,6 +3599,19 @@
             },
             "segments": [
                 194,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65502,
+                "y": 40
+            },
+            "segments": [
+                129,
                 0
             ]
         },
@@ -3293,7 +3689,7 @@
                 "y": 39
             },
             "segments": [
-                134,
+                129,
                 0
             ]
         },
@@ -3424,6 +3820,33 @@
             },
             "segments": [
                 4,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65519,
+                "y": 24
+            },
+            "segments": [
+                31,
+                27,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65520,
+                "y": 23
+            },
+            "segments": [
+                129,
                 0
             ]
         },
