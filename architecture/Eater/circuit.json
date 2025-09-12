@@ -11,8 +11,8 @@
     ],
     "description": "",
     "camera_position": {
-        "x": 11,
-        "y": 65521
+        "x": 65502,
+        "y": 65515
     },
     "synced": 0,
     "campaign_bound": 0,
@@ -112,13 +112,13 @@
             "rotation": 0,
             "permanent_id": 454158217302471534,
             "custom_string": "",
-            "setting_1": 8,
+            "setting_1": 16,
             "setting_2": 0,
             "ui_order": 0,
             "programs": [
                 {
                     "key": 86,
-                    "name": "counting"
+                    "name": "conditional-count"
                 }
             ]
         },

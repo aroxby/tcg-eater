@@ -1,0 +1,28 @@
+const NOP 0x00
+const LDA 0x10
+const ADD 0x20
+const SUB 0x30
+const STA 0x40
+const LDI 0x50
+const JMP 0x60
+const JC  0x70
+const JZ  0x80
+const OUT 0xE0
+const HLT 0xF0
+
+OUT
+ADD|15
+JC|4
+JMP|0
+SUB|15
+OUT
+JZ|0
+JMP|4
+0
+0
+0
+0
+0
+0
+0
+1
