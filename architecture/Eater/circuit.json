@@ -11,8 +11,8 @@
     ],
     "description": "",
     "camera_position": {
-        "x": 65502,
-        "y": 65515
+        "x": 65518,
+        "y": 24
     },
     "synced": 0,
     "campaign_bound": 0,
@@ -414,7 +414,7 @@
             "rotation": 0,
             "permanent_id": 2012568364709399528,
             "custom_string": "",
-            "setting_1": 5,
+            "setting_1": 6,
             "setting_2": 0,
             "ui_order": 0
         },
