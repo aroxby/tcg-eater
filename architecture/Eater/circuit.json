@@ -1,7 +1,7 @@
 {
     "save_id": 2179653139765324668,
     "hub_id": 0,
-    "gate": 8291,
+    "gate": 7541,
     "delay": 1452,
     "menu_visible": 1,
     "clock_speed": 100000,
@@ -11,8 +11,8 @@
     ],
     "description": "",
     "camera_position": {
-        "x": 65519,
-        "y": 23
+        "x": 65511,
+        "y": 38
     },
     "synced": 0,
     "campaign_bound": 0,
@@ -193,6 +193,19 @@
             "ui_order": 0
         },
         {
+            "kind": 40,
+            "position": {
+                "x": 65485,
+                "y": 41
+            },
+            "rotation": 2,
+            "permanent_id": 855566045709534560,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
             "kind": 32,
             "position": {
                 "x": 16,
@@ -222,6 +235,19 @@
                 "x": 65521,
                 "y": 65521
             }
+        },
+        {
+            "kind": 35,
+            "position": {
+                "x": 65485,
+                "y": 43
+            },
+            "rotation": 0,
+            "permanent_id": 1063351123299479053,
+            "custom_string": "",
+            "setting_1": 4,
+            "setting_2": 0,
+            "ui_order": 0
         },
         {
             "kind": 4,
@@ -406,19 +432,6 @@
             "ui_order": 0
         },
         {
-            "kind": 35,
-            "position": {
-                "x": 65489,
-                "y": 42
-            },
-            "rotation": 0,
-            "permanent_id": 2012568364709399528,
-            "custom_string": "",
-            "setting_1": 6,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
             "kind": 38,
             "position": {
                 "x": 65513,
@@ -450,13 +463,13 @@
             }
         },
         {
-            "kind": 233,
+            "kind": 8,
             "position": {
-                "x": 65492,
-                "y": 42
+                "x": 65485,
+                "y": 38
             },
             "rotation": 0,
-            "permanent_id": 2407174842793506330,
+            "permanent_id": 2213796950754676182,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
@@ -3186,11 +3199,50 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65487,
-                "y": 38
+                "x": 65484,
+                "y": 36
             },
             "segments": [
-                1,
+                65,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65484,
+                "y": 41
+            },
+            "segments": [
+                194,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65486,
+                "y": 41
+            },
+            "segments": [
+                6,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65486,
+                "y": 43
+            },
+            "segments": [
+                193,
                 0
             ]
         },
@@ -3201,84 +3253,6 @@
             "path": {
                 "x": 65487,
                 "y": 38
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65487,
-                "y": 39
-            },
-            "segments": [
-                66,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65487,
-                "y": 41
-            },
-            "segments": [
-                3,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65488,
-                "y": 39
-            },
-            "segments": [
-                129,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65490,
-                "y": 41
-            },
-            "segments": [
-                1,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65490,
-                "y": 41
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65490,
-                "y": 42
             },
             "segments": [
                 1,
@@ -3325,6 +3299,19 @@
             ]
         },
         {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65492,
+                "y": 41
+            },
+            "segments": [
+                162,
+                0
+            ]
+        },
+        {
             "kind": 0,
             "color": 0,
             "comment": "",
@@ -3333,7 +3320,7 @@
                 "y": 36
             },
             "segments": [
-                134,
+                137,
                 0
             ]
         },
@@ -3349,20 +3336,6 @@
                 223,
                 223,
                 195,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65493,
-                "y": 42
-            },
-            "segments": [
-                1,
-                225,
                 0
             ]
         },
@@ -3403,6 +3376,19 @@
             },
             "segments": [
                 1,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65495,
+                "y": 41
+            },
+            "segments": [
+                131,
                 0
             ]
         },
