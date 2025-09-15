@@ -4,15 +4,15 @@
     "gate": 7541,
     "delay": 1452,
     "menu_visible": 1,
-    "clock_speed": 100000,
+    "clock_speed": 10000,
     "dependencies": [
         688062441,
         7212045765384305912
     ],
     "description": "",
     "camera_position": {
-        "x": 65511,
-        "y": 38
+        "x": 65491,
+        "y": 65514
     },
     "synced": 0,
     "campaign_bound": 0,
@@ -118,7 +118,7 @@
             "programs": [
                 {
                     "key": 86,
-                    "name": "conditional-count"
+                    "name": "multiplication"
                 }
             ]
         },
