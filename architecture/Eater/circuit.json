@@ -11,8 +11,8 @@
     ],
     "description": "",
     "camera_position": {
-        "x": 65491,
-        "y": 65514
+        "x": 65527,
+        "y": 21
     },
     "synced": 0,
     "campaign_bound": 0,
@@ -112,7 +112,7 @@
             "rotation": 0,
             "permanent_id": 454158217302471534,
             "custom_string": "",
-            "setting_1": 16,
+            "setting_1": 27,
             "setting_2": 0,
             "ui_order": 0,
             "programs": [
@@ -245,7 +245,7 @@
             "rotation": 0,
             "permanent_id": 1063351123299479053,
             "custom_string": "",
-            "setting_1": 4,
+            "setting_1": 5,
             "setting_2": 0,
             "ui_order": 0
         },

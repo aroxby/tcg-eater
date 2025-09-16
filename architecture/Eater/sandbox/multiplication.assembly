@@ -11,19 +11,27 @@ const OUT 0xE0
 const HLT 0xF0
 
 label top
-LDA|x
-SUB|one
-JC|continue
-LDA|product
-OUT
-HLT
+LDA x
+SUB one
+JC continue
+LDA product
+OUT 0
+HLT 0
 label continue
-STA|x
-LDA|product
-ADD|y
-STA|product
-JMP|top
-0
+STA x
+LDA product
+ADD y
+STA product
+JMP top
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
 label one
 1
 label product

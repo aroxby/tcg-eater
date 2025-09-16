@@ -49,15 +49,15 @@ class Signals(Enum):
 for signal in Signals: locals()[signal.name] = signal.name
 
 
-BASE_STEPS = [[MRI, PCO, PCE], [RMO, IRI]]
+BASE_STEPS = [[MRI, PCO, PCE], [RMO, IRI], [PCO, MRI, PCE]]
 MICROCODE = {
     OpCodes.NOP: BASE_STEPS,
-    OpCodes.LDA: BASE_STEPS + [[IRO, MRI], [RMO, ARI]],
-    OpCodes.ADD: BASE_STEPS + [[IRO, MRI], [RMO, BRI], [SRO, ARI, FLU]],
-    OpCodes.SUB: BASE_STEPS + [[IRO, MRI], [RMO, BRI], [SUB, SRO, ARI, FLU]],
-    OpCodes.STA: BASE_STEPS + [[IRO, MRI], [ARO, RMI]],
-    OpCodes.LDI: BASE_STEPS + [[IRO, ARI]],
-    OpCodes.JMP: BASE_STEPS + [[IRO, PCI]],
+    OpCodes.LDA: BASE_STEPS + [[RMO, MRI], [RMO, ARI]],
+    OpCodes.ADD: BASE_STEPS + [[RMO, MRI], [RMO, BRI], [SRO, ARI, FLU]],
+    OpCodes.SUB: BASE_STEPS + [[RMO, MRI], [RMO, BRI], [SUB, SRO, ARI, FLU]],
+    OpCodes.STA: BASE_STEPS + [[RMO, MRI], [ARO, RMI]],
+    OpCodes.LDI: BASE_STEPS + [[RMO, ARI]],
+    OpCodes.JMP: BASE_STEPS + [[RMO, PCI]],
     OpCodes.JC: BASE_STEPS,
     OpCodes.JZ: BASE_STEPS,
     OpCodes.OUT: BASE_STEPS + [[ARO, ORI]],
