@@ -10,6 +10,17 @@ const JZ  0x80
 const OUT 0xE0
 const HLT 0xF0
 
+const product 128
+const x 129
+const y 130
+
+LDI 3
+STA x
+LDI 5
+STA y
+LDI 0
+STA product
+
 label top
 LDA x
 SUB one
@@ -24,19 +35,5 @@ ADD y
 STA product
 JMP top
 
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-
 label one
 1
-label product
-0
-label x
-3
-label y
-5

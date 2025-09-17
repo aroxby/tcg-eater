@@ -1,7 +1,7 @@
 {
     "save_id": 2179653139765324668,
     "hub_id": 0,
-    "gate": 7541,
+    "gate": 7217,
     "delay": 1452,
     "menu_visible": 1,
     "clock_speed": 10000,
@@ -11,8 +11,8 @@
     ],
     "description": "",
     "camera_position": {
-        "x": 65527,
-        "y": 21
+        "x": 65503,
+        "y": 65533
     },
     "synced": 0,
     "campaign_bound": 0,
@@ -34,19 +34,6 @@
             "ui_order": 0
         },
         {
-            "kind": 32,
-            "position": {
-                "x": 65501,
-                "y": 65517
-            },
-            "rotation": 1,
-            "permanent_id": 69373110456240440,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
             "kind": 151,
             "position": {
                 "x": 65501,
@@ -56,6 +43,32 @@
             "permanent_id": 178734404499440241,
             "custom_string": "",
             "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
+            "kind": 31,
+            "position": {
+                "x": 65533,
+                "y": 2
+            },
+            "rotation": 0,
+            "permanent_id": 307523609634231235,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
+            "kind": 200,
+            "position": {
+                "x": 65512,
+                "y": 9
+            },
+            "rotation": 0,
+            "permanent_id": 329589487285416074,
+            "custom_string": "",
+            "setting_1": 256,
             "setting_2": 0,
             "ui_order": 0
         },
@@ -104,25 +117,6 @@
             "ui_order": 0
         },
         {
-            "kind": 94,
-            "position": {
-                "x": 65477,
-                "y": 65526
-            },
-            "rotation": 0,
-            "permanent_id": 454158217302471534,
-            "custom_string": "",
-            "setting_1": 27,
-            "setting_2": 0,
-            "ui_order": 0,
-            "programs": [
-                {
-                    "key": 86,
-                    "name": "multiplication"
-                }
-            ]
-        },
-        {
             "kind": 13,
             "position": {
                 "x": 18,
@@ -167,6 +161,19 @@
             }
         },
         {
+            "kind": 231,
+            "position": {
+                "x": 65492,
+                "y": 65515
+            },
+            "rotation": 0,
+            "permanent_id": 754819965807160324,
+            "custom_string": "",
+            "setting_1": 7,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
             "kind": 35,
             "position": {
                 "x": 65521,
@@ -195,10 +202,10 @@
         {
             "kind": 40,
             "position": {
-                "x": 65485,
-                "y": 41
+                "x": 65487,
+                "y": 42
             },
-            "rotation": 2,
+            "rotation": 3,
             "permanent_id": 855566045709534560,
             "custom_string": "",
             "setting_1": 0,
@@ -213,6 +220,19 @@
             },
             "rotation": 3,
             "permanent_id": 930206781919933740,
+            "custom_string": "",
+            "setting_1": 0,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
+            "kind": 4,
+            "position": {
+                "x": 65528,
+                "y": 65515
+            },
+            "rotation": 0,
+            "permanent_id": 945799754044305672,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
@@ -239,39 +259,13 @@
         {
             "kind": 35,
             "position": {
-                "x": 65485,
+                "x": 65484,
                 "y": 43
             },
             "rotation": 0,
             "permanent_id": 1063351123299479053,
             "custom_string": "",
             "setting_1": 5,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
-            "kind": 4,
-            "position": {
-                "x": 65460,
-                "y": 65516
-            },
-            "rotation": 1,
-            "permanent_id": 1071077362577246230,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
-            "kind": 2,
-            "position": {
-                "x": 65490,
-                "y": 65514
-            },
-            "rotation": 0,
-            "permanent_id": 1106416700372795591,
-            "custom_string": "",
-            "setting_1": 0,
             "setting_2": 0,
             "ui_order": 0
         },
@@ -315,6 +309,19 @@
             "ui_order": 0
         },
         {
+            "kind": 231,
+            "position": {
+                "x": 65492,
+                "y": 65535
+            },
+            "rotation": 0,
+            "permanent_id": 1503404079219322417,
+            "custom_string": "",
+            "setting_1": 7,
+            "setting_2": 0,
+            "ui_order": 0
+        },
+        {
             "kind": 31,
             "position": {
                 "x": 15,
@@ -341,13 +348,13 @@
             "ui_order": 0
         },
         {
-            "kind": 32,
+            "kind": 139,
             "position": {
                 "x": 65495,
-                "y": 65517
+                "y": 3
             },
-            "rotation": 1,
-            "permanent_id": 1629116435203005983,
+            "rotation": 0,
+            "permanent_id": 1645218490229336336,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
@@ -361,32 +368,6 @@
             },
             "rotation": 0,
             "permanent_id": 1669059070690652886,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
-            "kind": 13,
-            "position": {
-                "x": 65461,
-                "y": 65519
-            },
-            "rotation": 0,
-            "permanent_id": 1734179578656331186,
-            "custom_string": "",
-            "setting_1": 1,
-            "setting_2": 0,
-            "ui_order": 65532
-        },
-        {
-            "kind": 4,
-            "position": {
-                "x": 65532,
-                "y": 36
-            },
-            "rotation": 0,
-            "permanent_id": 1782355267384752862,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
@@ -419,15 +400,15 @@
             "ui_order": 0
         },
         {
-            "kind": 206,
+            "kind": 139,
             "position": {
-                "x": 65518,
-                "y": 65526
+                "x": 65531,
+                "y": 65518
             },
             "rotation": 0,
-            "permanent_id": 1971446040156198430,
+            "permanent_id": 1911232127350562462,
             "custom_string": "",
-            "setting_1": 256,
+            "setting_1": 0,
             "setting_2": 0,
             "ui_order": 0
         },
@@ -461,19 +442,6 @@
                 "x": 65521,
                 "y": 65522
             }
-        },
-        {
-            "kind": 8,
-            "position": {
-                "x": 65485,
-                "y": 38
-            },
-            "rotation": 0,
-            "permanent_id": 2213796950754676182,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0
         },
         {
             "kind": 123,
@@ -569,7 +537,7 @@
             "custom_string": "",
             "setting_1": 1,
             "setting_2": 0,
-            "ui_order": 65530
+            "ui_order": 65532
         },
         {
             "kind": 123,
@@ -601,6 +569,19 @@
                 "x": 65521,
                 "y": 65521
             }
+        },
+        {
+            "kind": 35,
+            "position": {
+                "x": 65488,
+                "y": 7
+            },
+            "rotation": 0,
+            "permanent_id": 2938942709270885573,
+            "custom_string": "",
+            "setting_1": 127,
+            "setting_2": 0,
+            "ui_order": 0
         },
         {
             "kind": 123,
@@ -686,13 +667,32 @@
             "ui_order": 0
         },
         {
-            "kind": 159,
+            "kind": 94,
             "position": {
-                "x": 65533,
-                "y": 39
+                "x": 65512,
+                "y": 65526
             },
             "rotation": 0,
-            "permanent_id": 3762725613032123438,
+            "permanent_id": 3687976452718451130,
+            "custom_string": "",
+            "setting_1": 35,
+            "setting_2": 0,
+            "ui_order": 0,
+            "programs": [
+                {
+                    "key": 86,
+                    "name": "multiplication"
+                }
+            ]
+        },
+        {
+            "kind": 38,
+            "position": {
+                "x": 65491,
+                "y": 7
+            },
+            "rotation": 0,
+            "permanent_id": 3819827644629222566,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
@@ -712,13 +712,13 @@
             "ui_order": 0
         },
         {
-            "kind": 32,
+            "kind": 139,
             "position": {
-                "x": 65504,
-                "y": 65517
+                "x": 65497,
+                "y": 1
             },
-            "rotation": 1,
-            "permanent_id": 3949877439887141172,
+            "rotation": 0,
+            "permanent_id": 3979297579845504427,
             "custom_string": "",
             "setting_1": 0,
             "setting_2": 0,
@@ -792,32 +792,6 @@
             "permanent_id": 4136607212419766807,
             "custom_string": "",
             "setting_1": 1,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
-            "kind": 32,
-            "position": {
-                "x": 65498,
-                "y": 65517
-            },
-            "rotation": 1,
-            "permanent_id": 4179424495975402201,
-            "custom_string": "",
-            "setting_1": 0,
-            "setting_2": 0,
-            "ui_order": 0
-        },
-        {
-            "kind": 2,
-            "position": {
-                "x": 65458,
-                "y": 65507
-            },
-            "rotation": 0,
-            "permanent_id": 4368630371711830201,
-            "custom_string": "",
-            "setting_1": 0,
             "setting_2": 0,
             "ui_order": 0
         }
@@ -920,10 +894,10 @@
             "comment": "",
             "path": {
                 "x": 7,
-                "y": 0
+                "y": 2
             },
             "segments": [
-                203,
+                205,
                 0
             ]
         },
@@ -949,7 +923,7 @@
                 "y": 4
             },
             "segments": [
-                196,
+                194,
                 0
             ]
         },
@@ -1041,7 +1015,7 @@
             },
             "segments": [
                 159,
-                145,
+                155,
                 0
             ]
         },
@@ -2288,7 +2262,8 @@
             "segments": [
                 159,
                 159,
-                146,
+                159,
+                129,
                 0
             ]
         },
@@ -3103,41 +3078,15 @@
             ]
         },
         {
-            "kind": 0,
-            "color": 10,
-            "comment": "Proggraming Mode",
-            "path": {
-                "x": 65460,
-                "y": 65506
-            },
-            "segments": [
-                12,
-                0
-            ]
-        },
-        {
-            "kind": 0,
+            "kind": 4,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65460,
-                "y": 65507
+                "x": 65485,
+                "y": 5
             },
             "segments": [
-                72,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65460,
-                "y": 65517
-            },
-            "segments": [
-                65,
+                221,
                 0
             ]
         },
@@ -3146,8 +3095,8 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65462,
-                "y": 65519
+                "x": 65485,
+                "y": 43
             },
             "segments": [
                 1,
@@ -3159,12 +3108,11 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65463,
-                "y": 65515
+                "x": 65486,
+                "y": 6
             },
             "segments": [
-                31,
-                3,
+                4,
                 0
             ]
         },
@@ -3173,7 +3121,33 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65463,
+                "x": 65486,
+                "y": 65511
+            },
+            "segments": [
+                68,
+                0
+            ]
+        },
+        {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65486,
+                "y": 65515
+            },
+            "segments": [
+                5,
+                0
+            ]
+        },
+        {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65486,
                 "y": 65515
             },
             "segments": [
@@ -3182,15 +3156,54 @@
             ]
         },
         {
-            "kind": 1,
+            "kind": 3,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65463,
+                "x": 65486,
                 "y": 65519
             },
             "segments": [
-                1,
+                13,
+                0
+            ]
+        },
+        {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65486,
+                "y": 65535
+            },
+            "segments": [
+                5,
+                0
+            ]
+        },
+        {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65486,
+                "y": 65535
+            },
+            "segments": [
+                71,
+                0
+            ]
+        },
+        {
+            "kind": 3,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65486,
+                "y": 65535
+            },
+            "segments": [
+                208,
                 0
             ]
         },
@@ -3199,50 +3212,11 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65484,
-                "y": 36
+                "x": 65487,
+                "y": 3
             },
             "segments": [
-                65,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65484,
-                "y": 41
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65486,
-                "y": 41
-            },
-            "segments": [
-                6,
-                0
-            ]
-        },
-        {
-            "kind": 1,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65486,
-                "y": 43
-            },
-            "segments": [
-                193,
+                7,
                 0
             ]
         },
@@ -3255,30 +3229,56 @@
                 "y": 38
             },
             "segments": [
-                1,
+                67,
                 0
             ]
         },
         {
-            "kind": 4,
+            "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65491,
-                "y": 65516
+                "x": 65487,
+                "y": 65513
             },
             "segments": [
-                3,
+                90,
                 0
             ]
         },
         {
-            "kind": 4,
+            "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65491,
-                "y": 65519
+                "x": 65488,
+                "y": 1
+            },
+            "segments": [
+                8,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 10,
+            "comment": "RAM (0x80-0xFF)",
+            "path": {
+                "x": 65488,
+                "y": 9
+            },
+            "segments": [
+                11,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65488,
+                "y": 38
             },
             "segments": [
                 129,
@@ -3286,15 +3286,29 @@
             ]
         },
         {
-            "kind": 4,
+            "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65491,
-                "y": 65519
+                "x": 65488,
+                "y": 65514
             },
             "segments": [
-                195,
+                31,
+                11,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65488,
+                "y": 65514
+            },
+            "segments": [
+                87,
                 0
             ]
         },
@@ -3303,53 +3317,76 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65492,
+                "x": 65489,
+                "y": 7
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65490,
+                "y": 39
+            },
+            "segments": [
+                66,
+                0
+            ]
+        },
+        {
+            "kind": 1,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65490,
                 "y": 41
             },
             "segments": [
-                162,
+                5,
                 0
             ]
         },
         {
-            "kind": 0,
+            "kind": 1,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65493,
-                "y": 36
+                "x": 65490,
+                "y": 41
             },
             "segments": [
-                137,
+                66,
                 0
             ]
         },
         {
-            "kind": 0,
+            "kind": 1,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65493,
-                "y": 36
+                "x": 65490,
+                "y": 43
             },
             "segments": [
-                223,
-                223,
-                195,
+                131,
                 0
             ]
         },
         {
-            "kind": 0,
+            "kind": 3,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65493,
-                "y": 65507
+                "x": 65492,
+                "y": 4
             },
             "segments": [
-                159,
-                130,
+                67,
                 0
             ]
         },
@@ -3380,41 +3417,28 @@
             ]
         },
         {
-            "kind": 1,
+            "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
                 "x": 65495,
-                "y": 41
+                "y": 2
             },
             "segments": [
-                131,
+                195,
                 0
             ]
         },
         {
-            "kind": 4,
+            "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
                 "x": 65495,
-                "y": 65512
+                "y": 65535
             },
             "segments": [
-                68,
-                0
-            ]
-        },
-        {
-            "kind": 4,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65495,
-                "y": 65522
-            },
-            "segments": [
-                196,
+                130,
                 0
             ]
         },
@@ -3424,10 +3448,10 @@
             "comment": "",
             "path": {
                 "x": 65496,
-                "y": 65507
+                "y": 3
             },
             "segments": [
-                131,
+                3,
                 0
             ]
         },
@@ -3436,11 +3460,11 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65496,
-                "y": 65516
+                "x": 65497,
+                "y": 0
             },
             "segments": [
-                201,
+                193,
                 0
             ]
         },
@@ -3459,15 +3483,81 @@
             ]
         },
         {
-            "kind": 3,
+            "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
                 "x": 65497,
-                "y": 65515
+                "y": 65535
             },
             "segments": [
-                65,
+                130,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65498,
+                "y": 1
+            },
+            "segments": [
+                1,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 10,
+            "comment": "PROM (0x00-0x7F)",
+            "path": {
+                "x": 65498,
+                "y": 65517
+            },
+            "segments": [
+                12,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65499,
+                "y": 0
+            },
+            "segments": [
+                31,
+                3,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65499,
+                "y": 1
+            },
+            "segments": [
+                193,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65499,
+                "y": 2
+            },
+            "segments": [
+                193,
                 0
             ]
         },
@@ -3476,24 +3566,24 @@
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65498,
-                "y": 65511
+                "x": 65499,
+                "y": 4
             },
             "segments": [
-                69,
+                135,
                 0
             ]
         },
         {
-            "kind": 3,
+            "kind": 4,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65498,
-                "y": 65521
+                "x": 65499,
+                "y": 5
             },
             "segments": [
-                195,
+                142,
                 0
             ]
         },
@@ -3524,32 +3614,6 @@
             ]
         },
         {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65499,
-                "y": 65507
-            },
-            "segments": [
-                131,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65499,
-                "y": 65516
-            },
-            "segments": [
-                201,
-                0
-            ]
-        },
-        {
             "kind": 2,
             "color": 0,
             "comment": "",
@@ -3563,58 +3627,6 @@
             ]
         },
         {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65500,
-                "y": 65514
-            },
-            "segments": [
-                137,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65500,
-                "y": 65516
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65501,
-                "y": 65513
-            },
-            "segments": [
-                67,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65501,
-                "y": 65520
-            },
-            "segments": [
-                194,
-                0
-            ]
-        },
-        {
             "kind": 2,
             "color": 0,
             "comment": "",
@@ -3624,149 +3636,6 @@
             },
             "segments": [
                 3,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65502,
-                "y": 65507
-            },
-            "segments": [
-                131,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65502,
-                "y": 65516
-            },
-            "segments": [
-                201,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65504,
-                "y": 65514
-            },
-            "segments": [
-                29,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65504,
-                "y": 65514
-            },
-            "segments": [
-                66,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65504,
-                "y": 65519
-            },
-            "segments": [
-                193,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65505,
-                "y": 65507
-            },
-            "segments": [
-                131,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65505,
-                "y": 65516
-            },
-            "segments": [
-                201,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65505,
-                "y": 65519
-            },
-            "segments": [
-                129,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65505,
-                "y": 65520
-            },
-            "segments": [
-                132,
-                0
-            ]
-        },
-        {
-            "kind": 3,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65505,
-                "y": 65521
-            },
-            "segments": [
-                135,
-                0
-            ]
-        },
-        {
-            "kind": 4,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65505,
-                "y": 65522
-            },
-            "segments": [
-                138,
                 0
             ]
         },
@@ -3806,19 +3675,6 @@
             },
             "segments": [
                 11,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 10,
-            "comment": "Ram",
-            "path": {
-                "x": 65516,
-                "y": 65517
-            },
-            "segments": [
-                4,
                 0
             ]
         },
@@ -3863,6 +3719,19 @@
             ]
         },
         {
+            "kind": 4,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65525,
+                "y": 2
+            },
+            "segments": [
+                7,
+                0
+            ]
+        },
+        {
             "kind": 0,
             "color": 0,
             "comment": "",
@@ -3886,6 +3755,19 @@
             },
             "segments": [
                 197,
+                0
+            ]
+        },
+        {
+            "kind": 4,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65525,
+                "y": 65519
+            },
+            "segments": [
+                7,
                 0
             ]
         },
@@ -3916,6 +3798,20 @@
             ]
         },
         {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65527,
+                "y": 65515
+            },
+            "segments": [
+                159,
+                131,
+                0
+            ]
+        },
+        {
             "kind": 3,
             "color": 0,
             "comment": "",
@@ -3924,7 +3820,8 @@
                 "y": 65511
             },
             "segments": [
-                158,
+                159,
+                139,
                 0
             ]
         },
@@ -3964,6 +3861,33 @@
             },
             "segments": [
                 195,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65530,
+                "y": 65514
+            },
+            "segments": [
+                31,
+                21,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65530,
+                "y": 65518
+            },
+            "segments": [
+                196,
                 0
             ]
         },
@@ -3994,20 +3918,6 @@
             ]
         },
         {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65531,
-                "y": 36
-            },
-            "segments": [
-                159,
-                135,
-                0
-            ]
-        },
-        {
             "kind": 4,
             "color": 0,
             "comment": "",
@@ -4016,20 +3926,59 @@
                 "y": 39
             },
             "segments": [
+                4,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65531,
+                "y": 65515
+            },
+            "segments": [
+                130,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65531,
+                "y": 65517
+            },
+            "segments": [
+                194,
+                0
+            ]
+        },
+        {
+            "kind": 0,
+            "color": 0,
+            "comment": "",
+            "path": {
+                "x": 65532,
+                "y": 65518
+            },
+            "segments": [
                 1,
                 0
             ]
         },
         {
-            "kind": 4,
+            "kind": 0,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65531,
-                "y": 65519
+                "x": 65533,
+                "y": 1
             },
             "segments": [
-                1,
+                193,
                 0
             ]
         },
@@ -4047,42 +3996,15 @@
             ]
         },
         {
-            "kind": 0,
+            "kind": 1,
             "color": 0,
             "comment": "",
             "path": {
-                "x": 65533,
-                "y": 38
+                "x": 65534,
+                "y": 2
             },
             "segments": [
-                194,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65533,
-                "y": 65514
-            },
-            "segments": [
-                31,
-                18,
-                0
-            ]
-        },
-        {
-            "kind": 0,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65533,
-                "y": 65514
-            },
-            "segments": [
-                68,
+                9,
                 0
             ]
         },
@@ -4096,19 +4018,6 @@
             },
             "segments": [
                 3,
-                0
-            ]
-        },
-        {
-            "kind": 4,
-            "color": 0,
-            "comment": "",
-            "path": {
-                "x": 65534,
-                "y": 39
-            },
-            "segments": [
-                1,
                 0
             ]
         },
